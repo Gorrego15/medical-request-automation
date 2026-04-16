@@ -1,0 +1,19 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Excel and data
+*.xlsx
+*.xls
+*.csv
+
+# Sensitive Legal Outputs
+**/Master_HIPAA.pdf
+**/*.pdf
+**/*.docx
+
+# Environments and OS
+venv/
+.env
+.DS_Store
+Thumbs.db
